@@ -1,0 +1,13 @@
+/* 全局样式表 */
+html,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.hidden{
+    overflow: hidden;
+}
+a,a:link, a:visited,a:hover, a:active {
+    text-decoration: none;
+    color: #b6b6b7;
+  }
